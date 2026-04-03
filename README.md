@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Almeida 👋
+# Olá, eu sou Vinicius Santos 👋
 
 ### 🪖 Sobre Mim
 Sou um entusiasta de tecnologia e automação, focado em transformar processos manuais e burocráticos em fluxos digitais eficientes. Atualmente, aplico meus conhecimentos em **Python** para resolver desafios reais de produtividade e gestão de dados no setor administrativo.
